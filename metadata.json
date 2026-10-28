@@ -1,0 +1,6 @@
+{
+  "name": "دفتر القياسات",
+  "description": "تطبيق لتسجيل قياسات العملاء وتتبع تاريخ التحديثات وحفظ نسخة احتياطية محلية وعلى Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

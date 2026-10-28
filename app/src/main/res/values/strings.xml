@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">دفتر القياسات</string>
+    <string name="nav_home">العملاء</string>
+    <string name="nav_archive">الأرشيف</string>
+    <string name="nav_profile">الحساب</string>
+    <string name="nav_settings">الإعدادات</string>
+    <string name="nav_history">التحديثات</string>
+
+    <string name="search_hint">بحث...</string>
+    <string name="sort_by">ترتيب حسب:</string>
+    <string name="sort_name">الاسم</string>
+    <string name="sort_date">التاريخ</string>
+
+    <string name="customer_name">اسم العميل</string>
+    <string name="customer_phone">رقم الهاتف (9 أرقام)</string>
+    <string name="customer_address">العنوان</string>
+    <string name="customer_note">ملاحظات</string>
+
+    <string name="btn_add">إضافة</string>
+    <string name="btn_cancel">إلغاء</string>
+    <string name="btn_save">حفظ</string>
+    <string name="btn_archive">أرشفة</string>
+    <string name="btn_unarchive">إلغاء الأرشفة</string>
+    <string name="btn_share">مشاركة</string>
+    <string name="btn_delete">حذف</string>
+
+    <string name="title_add_customer">إضافة عميل جديد</string>
+    <string name="title_edit_customer">تعديل بيانات العميل</string>
+    <string name="title_measurements">القياسات</string>
+    <string name="title_add_measurement">إضافة قياس جديد</string>
+    <string name="title_edit_measurement">تعديل القياس</string>
+    <string name="title_settings">نماذج القياسات</string>
+    <string name="title_profile">الملف الشخصي</string>
+    <string name="title_history">سجل التغييرات</string>
+
+    <string name="about_app_title">حول التطبيق</string>
+    <string name="about_app_desc">تطبيق دفتر القياسات هو نظام متكامل لإدارة قياسات العملاء (للخياطين والمصممين وغيرهم) مع دعم الأرشفة، والنسخ الاحتياطي، وإرسال القياسات كملف PDF أو نص.</string>
+</resources>
